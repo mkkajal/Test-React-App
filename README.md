@@ -24,7 +24,7 @@ Directory Structure:
 ## Steps:
 * After you downloaded or cloned this file
 * Run Test-React-App using `npm start`
-* It will run on http:localhost:3000/login default
+* It will run on http://localhost:3000/login default
 
 
   
