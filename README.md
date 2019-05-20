@@ -22,10 +22,9 @@ Directory Structure:
 ```
 
 ## Steps:
-* After you downloaded or cloned this boilerplate
-* Run middleware using `npm start`
-* Run admin using `npm start`
-* Without middleware running, you will get socket error
-* For Production, Run `npm build` inside admin directory to package and distribute your react project, it will be available under admin/build directory
+* After you downloaded or cloned this file
+* Run Test-Raecta-App using `npm start`
+* It will run on http:localhost:3000/login default
+
 
   
