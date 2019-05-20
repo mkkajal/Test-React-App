@@ -14,8 +14,7 @@ Directory Structure:
        │   └── images
        ├── components   // Components Directory
        │   └── data     // Main Data directory holding template index.js (heart of your portal !!)
-       ├── containers   // Containers directory holding components - redux state mapping
-       ├── lib          // External Libraries like Socket or any 3rd party libraries
+       ├── containers   // Containers directory holding components - redux state mappin
        ├── reducers     // Redux Reducers
        └── routes       // React Router routing
 
