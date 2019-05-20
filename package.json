@@ -19,8 +19,8 @@
     "redux-thunk": "^2.2.0"
   },
   "scripts": {
-    "start": "npm run git-info && react-scripts start",
-    "build": "npm run git-info && GENERATE_SOURCEMAP=false react-scripts build",
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
  },
