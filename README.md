@@ -1,4 +1,4 @@
-## Boiler Plate - Admin
+# Basic React App
 
 ```
 Directory Structure:
